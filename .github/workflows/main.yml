@@ -32,9 +32,6 @@ jobs:
           name: production-files
           path: ./build
 
-          defaults:
-          run:
-          working-directory: ./client
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
