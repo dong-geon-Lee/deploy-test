@@ -1,7 +1,7 @@
 import React from "react";
 
 const Counter = () => {
-  return <div>Counte!r</div>;
+  return <div>Counte!rsss</div>;
 };
 
 export default Counter;
