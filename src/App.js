@@ -5,8 +5,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>Hello World</h1>
-      <h1>축구 패배</h1>
-      <h3>장점ghffl</h3>
+      <h1>이상하게 다른 레포지토리에 개입되는 이유??</h1>
     </div>
   );
 };
