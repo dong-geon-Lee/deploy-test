@@ -6,6 +6,7 @@ const App = () => {
     <div className="App">
       <h1>Hello World</h1>
       <h1>축구 패배</h1>
+      <h3>장점</h3>
     </div>
   );
 };
